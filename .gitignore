@@ -1,0 +1,10 @@
+attempt*/
+.vscode/
+
+project.md
+prompts.md
+
+bin/
+build/
+test_root/
+*.sh
